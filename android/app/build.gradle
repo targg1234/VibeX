@@ -1,0 +1,52 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.chat_mania"
+
+    // Pastikan compileSdk dan targetSdk versi 33 atau lebih (Android 14 = API 34)
+    compileSdk = 34
+
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+
+    defaultConfig {
+        applicationId = "com.example.chat_mania"
+
+        // Minimal SDK sesuai kebutuhanmu, biasanya 21 atau lebih
+        minSdk = 21
+
+        // Target SDK harus disesuaikan dengan compileSdk
+        targetSdk = 34
+
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            // Tambahkan signing config release yang sebenarnya kalau sudah punya
+            signingConfig = signingConfigs.debug
+            // Untuk optimasi release
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
