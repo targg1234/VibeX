@@ -2,17 +2,6 @@
 
 VibeX adalah aplikasi memposting utas/status ,berbagi pengalaman pribadi, menuangkan pikiran ,curhat, dsb.
 
-## 📸 Preview
-
-Berikut adalah beberapa tangkapan layar aplikasi:
-
-![Gambar 1](assets/images/image_1.png)
-![Gambar 2](assets/images/image_2.png)
-![Gambar 3](assets/images/image_3.png)
-![Gambar 4](assets/images/image_4.png)
-![Gambar 5](assets/images/image_5.png)
-![Gambar 6](assets/images/image_6.png)
-![Gambar 7](assets/images/image_7.png)
 
 ## Tentang aplikasi
 
@@ -22,7 +11,7 @@ Posting ditampilkan dalam bentuk daftar, lengkap dengan nama pengguna, avatar/ic
 
 Ada menu titik tiga ("...") di setiap posting, kemungkinan besar digunakan untuk mengedit, menghapus, atau menampilkan opsi tambahan.
 
-## Tampilan:
+## Tampilan Menu:
 
 Sederhana dan bersih, dengan latar belakang dominan putih/ungu muda.
 
@@ -40,3 +29,15 @@ Di pojok kanan atas header, terdapat sebuah ikon bulan sabit 🌙. Ini biasanya 
 Jika ikon bulan sabit 🌙 aktif (seperti pada tangkapan layar), kemungkinan saat ini aplikasi sedang dalam Light Mode, dan pengguna bisa mengetuk ikon ini untuk beralih ke Dark Mode.
 
 Jika diubah ke Dark Mode, biasanya latar belakang akan berubah menjadi gelap, teks menjadi terang, dan beberapa warna aksen mungkin ikut berubah.
+
+## 📸 Preview
+
+Berikut adalah beberapa tangkapan layar aplikasi:
+
+![Gambar 1](assets/images/image_1.png)
+![Gambar 2](assets/images/image_2.png)
+![Gambar 3](assets/images/image_3.png)
+![Gambar 4](assets/images/image_4.png)
+![Gambar 5](assets/images/image_5.png)
+![Gambar 6](assets/images/image_6.png)
+![Gambar 7](assets/images/image_7.png)
