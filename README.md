@@ -1,6 +1,6 @@
 # VibeX
 
-VibeX adalah aplikasi posting status yang memudahkan pengguna untuk berbagi cerita dan momen.
+VibeX adalah aplikasi memposting utas/status ,berbagi pengalaman pribadi, menuangkan pikiran ,curhat, dsb.
 
 ## 📸 Preview
 
@@ -14,17 +14,22 @@ Berikut adalah beberapa tangkapan layar aplikasi:
 ![Gambar 6](assets/images/image_6.png)
 ![Gambar 7](assets/images/image_7.png)
 
-## Getting Started
+## Tentang aplikasi
 
-This project is a starting point for a Flutter application.
+Pengguna bisa membuat posting (tulisan singkat) melalui tombol "+" (Add Post) yang ada di bagian bawah layar.
 
-A few resources to get you started if this is your first Flutter project:
+Posting ditampilkan dalam bentuk daftar, lengkap dengan nama pengguna, avatar/icon, tanggal dan waktu posting, serta isi posting.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ada menu titik tiga ("...") di setiap posting, kemungkinan besar digunakan untuk mengedit, menghapus, atau menampilkan opsi tambahan.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tampilan:
 
----
+Sederhana dan bersih, dengan latar belakang dominan putih/ungu muda.
+
+Avatar pengguna ditampilkan di sebelah kiri setiap posting.
+
+Teks nama pengguna ditampilkan tebal berwarna ungu (atau warna lainnya) agar mudah dibedakan.
+
+Tanggal dan waktu posting ditampilkan di bawah nama pengguna.
+
+Tombol tambah posting (FAB - Floating Action Button) ada di tengah bawah layar.
