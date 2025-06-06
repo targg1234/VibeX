@@ -33,3 +33,10 @@ Teks nama pengguna ditampilkan tebal berwarna ungu (atau warna lainnya) agar mud
 Tanggal dan waktu posting ditampilkan di bawah nama pengguna.
 
 Tombol tambah posting (FAB - Floating Action Button) ada di tengah bawah layar.
+
+🌙 Tentang Icon Tema (Light/Dark Mode):
+Di pojok kanan atas header, terdapat sebuah ikon bulan sabit 🌙. Ini biasanya adalah ikon untuk toggle tema (Light Mode <-> Dark Mode). Fungsi ikon ini:
+
+Jika ikon bulan sabit 🌙 aktif (seperti pada tangkapan layar), kemungkinan saat ini aplikasi sedang dalam Light Mode, dan pengguna bisa mengetuk ikon ini untuk beralih ke Dark Mode.
+
+Jika diubah ke Dark Mode, biasanya latar belakang akan berubah menjadi gelap, teks menjadi terang, dan beberapa warna aksen mungkin ikut berubah.
