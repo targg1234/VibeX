@@ -22,7 +22,7 @@ class _ProductPageState extends State<ProductPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('ChatX'),
+        title: const Text('VibeX'),
         centerTitle: true,
         actions: [
           IconButton(

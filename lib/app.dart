@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'ChatX App',
+        title: 'VibeX App',
         theme: ThemeData.light(useMaterial3: true),
         darkTheme: ThemeData.dark(useMaterial3: true),
         themeMode: _themeMode,
